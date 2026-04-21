@@ -1,4 +1,3 @@
-/* eslint-disable react-refresh/only-export-components */
 
 import { createContext, useContext, useEffect, useMemo, useReducer } from "react";
 import { getDataset, getToken } from "../api/api";
